@@ -1,0 +1,15 @@
+C:\Gb\C_Tasks(Less8)\task_56\obj\Debug\net6.0\task_56.csproj.AssemblyReference.cache
+C:\Gb\C_Tasks(Less8)\task_56\obj\Debug\net6.0\task_56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gb\C_Tasks(Less8)\task_56\obj\Debug\net6.0\task_56.AssemblyInfoInputs.cache
+C:\Gb\C_Tasks(Less8)\task_56\obj\Debug\net6.0\task_56.AssemblyInfo.cs
+C:\Gb\C_Tasks(Less8)\task_56\obj\Debug\net6.0\task_56.csproj.CoreCompileInputs.cache
+C:\Gb\C_Tasks(Less8)\task_56\bin\Debug\net6.0\task_56.exe
+C:\Gb\C_Tasks(Less8)\task_56\bin\Debug\net6.0\task_56.deps.json
+C:\Gb\C_Tasks(Less8)\task_56\bin\Debug\net6.0\task_56.runtimeconfig.json
+C:\Gb\C_Tasks(Less8)\task_56\bin\Debug\net6.0\task_56.dll
+C:\Gb\C_Tasks(Less8)\task_56\bin\Debug\net6.0\task_56.pdb
+C:\Gb\C_Tasks(Less8)\task_56\obj\Debug\net6.0\task_56.dll
+C:\Gb\C_Tasks(Less8)\task_56\obj\Debug\net6.0\refint\task_56.dll
+C:\Gb\C_Tasks(Less8)\task_56\obj\Debug\net6.0\task_56.pdb
+C:\Gb\C_Tasks(Less8)\task_56\obj\Debug\net6.0\task_56.genruntimeconfig.cache
+C:\Gb\C_Tasks(Less8)\task_56\obj\Debug\net6.0\ref\task_56.dll
